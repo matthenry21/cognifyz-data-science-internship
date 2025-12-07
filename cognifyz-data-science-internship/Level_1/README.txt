@@ -24,14 +24,6 @@ FILES INCLUDED:
 3. dataset.csv
    - The dataset used for all analyses in Level 1.
 
-4. Plots and Visual Outputs:
-   • missing_values.png
-   • rating_distribution.png
-   • top_cities.png
-   • top_cuisines.png
-   • geospatial_plot.png
-   • correlation_matrix.png
-
 NOTES:
 - All analysis is original and based on the provided dataset.
 - No external templates or plagiarized code were used.
